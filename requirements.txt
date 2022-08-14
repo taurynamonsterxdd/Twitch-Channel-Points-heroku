@@ -1,0 +1,12 @@
+requests
+websocket-client
+browser_cookie3
+pillow
+python-dateutil
+emoji
+millify
+pre-commit
+colorama
+flask
+irc
+pandas
