@@ -74,5 +74,5 @@ Wszystko sie robi w konsoli poczekajcie chwile
 >
 >Tier 1 sub 9zl w ciagu 24 godzin dostajesz 9200 punktow https://allegrolokalnie.pl/oferta/twitch-subskrypcja-t1-poziom-1
 >
->Aktualnie jest przecena, Nie to nie jest moj sklep tylko chce wam pokazac, ze mozna kupic taniej a ta sama jakosc
+>Aktualnie jest przecena, Nie to nie jest moj sklep tylko chce wam pokazac, ze mozna kupic taniej a ta sama rzecz
 
