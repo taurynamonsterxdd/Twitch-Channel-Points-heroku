@@ -6,7 +6,8 @@ wzialem bota od Tkd-Alex
 
 https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2
 
-Wszystko zrobione i pobrane nie musisz pobierac pythona wystarczy, ze zedytujesz plik run.py![image](https://user-images.githubusercontent.com/108152893/184530669-97d8c017-c1cc-4dfd-8cc6-ece7a59332ae.png)
+Wszystko zrobione i pobrane musisz pobierac pythona wystarczy, ze zedytujesz plik run.py i musisz raz to wlaczyc dokladnie run.py i podac kod ktory przyjdzie wam na maila od twitcha
+![image](https://user-images.githubusercontent.com/108152893/184530669-97d8c017-c1cc-4dfd-8cc6-ece7a59332ae.png)
 
 zedytowac plik mozesz w notatniku, notepad++ albo visual studio code
 
