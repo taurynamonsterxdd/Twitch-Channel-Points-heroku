@@ -69,7 +69,9 @@ Wszystko sie robi w konsoli poczekajcie chwile
 # I to tyle dziekuje za czytanie tego poradnika mam nadzieje ze pomoglem :P Heroku ma darmowe 550h jezeli wam juz nie farmi to po prostu zalozcie nowe konto tak jak wyzej![image](https://user-images.githubusercontent.com/108152893/184531857-ea395996-a44b-4217-9f87-8863e026d3a3.png)
 
 >Tier 3 Sub 40zl w ciagu 24godzin dostajesz 15000 punktow https://allegrolokalnie.pl/oferta/twitch-subskrypcja-t3-poziom-3
+>
 >Tier 2 sub 20zl w ciagu 24godzin dostajesz 10800 punktow https://allegrolokalnie.pl/oferta/twitch-subskrypcja-t2-poziom-2
+>
 >Tier 1 sub 9zl w ciagu 24 godzin dostajesz 9200 punktow https://allegrolokalnie.pl/oferta/twitch-subskrypcja-t1-poziom-1
 
 
